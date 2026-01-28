@@ -328,4 +328,4 @@ Cost per default: $2,500-$15,000 (balance + collection costs)
 
 ** If this analysis helped you, please star this repository!**
 
-*Last Updated: January 26, 2025*
+*Last Updated: January 16, 2026*
